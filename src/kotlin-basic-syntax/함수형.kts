@@ -42,3 +42,5 @@ fun 부수효과제거(){
         return ImmutableBankAccount(account.balance - 10)
     }
 }
+
+
